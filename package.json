@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
@@ -12,6 +13,7 @@
   "description": "",
   "devDependencies": {
     "eslint": "^8.57.1",
+    "nodemon": "^3.1.9",
     "prettier": "^3.5.3"
   }
 }
