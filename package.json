@@ -7,10 +7,13 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "node",
+    "template"
+  ],
+  "author": "Moe Green",
   "license": "ISC",
-  "description": "",
+  "description": "Node.js Template",
   "devDependencies": {
     "eslint": "^8.57.1",
     "nodemon": "^3.1.9",
